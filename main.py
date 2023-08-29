@@ -1,1 +1,2 @@
-testing
+def test():
+    print("Hello World!")
